@@ -5,6 +5,7 @@ import static org.assertj.core.api.Assertions.*;
 
 public class CalculatorTest {
 
+  // Wat commentaar
   @Test
   public void gegevenXis4enYis2_wanneerDivide_danResultIs2punt0(){
     // 1. Arrange
