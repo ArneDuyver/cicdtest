@@ -7,6 +7,6 @@ public class Calculator {
     if (y == 0){
       throw new ArithmeticException("/ by zero not allowed");
     }
-    return x/y;
+    return 1.0f;
   }
 }
